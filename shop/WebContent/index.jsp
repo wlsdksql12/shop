@@ -19,7 +19,7 @@
 	<!-- submenu 인클루드 끝 -->
 	<div>
 	<div class="jumbotron">
-		<h1>index</h1>
+		<h1 style="color: black">index</h1>
 	</div>
 	
 		<!-- 로그인 작업 -->
